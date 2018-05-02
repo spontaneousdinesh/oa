@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 staging file
-=======
-master branch
->>>>>>> master
